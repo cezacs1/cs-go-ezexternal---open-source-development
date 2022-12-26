@@ -3,7 +3,7 @@ https://youtu.be/d1apH2-xMbU
 
 
 Notes:
-> I will update it every week for new features and some fixes. 
+> I will update it weekly for new features and some fixes. 
 
 > Dont ask anything about VAC - Bans.
 
