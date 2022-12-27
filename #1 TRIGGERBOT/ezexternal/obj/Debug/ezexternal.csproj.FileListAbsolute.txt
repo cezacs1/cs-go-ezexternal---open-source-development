@@ -1,0 +1,11 @@
+C:\Users\csacc\source\repos\ezexternal\ezexternal\bin\Debug\ezexternal.exe.config
+C:\Users\csacc\source\repos\ezexternal\ezexternal\bin\Debug\ezexternal.exe
+C:\Users\csacc\source\repos\ezexternal\ezexternal\bin\Debug\ezexternal.pdb
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.csproj.AssemblyReference.cache
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.csproj.SuggestedBindingRedirects.cache
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.Form1.resources
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.Properties.Resources.resources
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.csproj.GenerateResource.cache
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.csproj.CoreCompileInputs.cache
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.exe
+C:\Users\csacc\source\repos\ezexternal\ezexternal\obj\Debug\ezexternal.pdb
